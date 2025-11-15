@@ -31,7 +31,7 @@ No coração do **Console.GAY** está nossa anfitriã, **Lua**, também conhecid
       align=left 
       margin=10 
       width=500 
-      src="./assets/LuaLima(Persona).png"
+      src="https://raw.githubusercontent.com/Kitinport1/prompts-for-podcast-generate-by-ia/refs/heads/main/assets/LuaLima(Persona).png"
     />
     <p>&nbsp&nbsp&nbspLua Lima(<br>
 </p>
@@ -71,7 +71,7 @@ A estética visual do podcast reflete o tema central: **tecnologia de ponta com 
       align=left 
       margin=100 
       width=400 
-      src="./assets/Console.GAY(Capa).jpg"
+      src="https://raw.githubusercontent.com/Kitinport1/prompts-for-podcast-generate-by-ia/refs/heads/main/assets/Console.GAY(Capa).jpg"
     />
 </p>
 
@@ -88,7 +88,7 @@ A estética visual do podcast reflete o tema central: **tecnologia de ponta com 
       align=left 
       margin=10 
       width=120 
-      src="./assets/github-assets/kitinpor1.png"
+      src="https://raw.githubusercontent.com/Kitinport1/prompts-for-podcast-generate-by-ia/refs/heads/main/assets/github-assets/kitinpor1.png"
     />
     <p>&nbsp&nbsp&nbspLua Lima(<br>
     &nbsp&nbsp&nbsp
